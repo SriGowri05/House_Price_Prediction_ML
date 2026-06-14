@@ -1,4 +1,4 @@
-# SCT_ML_1(House Price Prediction Using Linear Regression)
+# House Price Prediction (Using Linear Regression)
 
 ## Overview
 This project predicts house prices using a Linear Regression model.
